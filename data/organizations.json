@@ -97,5 +97,71 @@
     "email": "",
     "address": "",
     "phone": ""
+  },
+  {
+    "title": "",
+    "region": "Toute la France",
+    "city": "",
+    "website": "",
+    "facebook": "",
+    "telegram": "https://t.me/c/1305551549/11?fbclid=IwAR2u6UJGZBKZ0yDU6hFlxZ_Nr79gkuiGVOsIsvxMd2mZy109aZ7FaoOegfI",
+    "email": "",
+    "address": "",
+    "phone": ""
+  },
+  {
+    "title": "L'aide humanitaire envoyé en Ukraine",
+    "region": "",
+    "city": "",
+    "website": "",
+    "facebook": "",
+    "telegram": "",
+    "email": "",
+    "address": "",
+    "phone": "0671257133"
+  },
+  {
+    "title": "Centre d'Aide Français à l'Ukraine",
+    "region": "",
+    "city": "",
+    "website": "",
+    "facebook": "",
+    "telegram": "",
+    "email": "cafa.ukraine@gmail.com",
+    "address": "",
+    "phone": ""
+  },
+  {
+    "title": "Humanitarian Aid + Red Cross",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "city": "Digne les Bains",
+    "website": "",
+    "facebook": "https://www.facebook.com/profile.php?id=100012060246715",
+    "telegram": "",
+    "email": "",
+    "address": "",
+    "phone": ""
+  },
+  {
+    "title": "Centre culturel d'Ukraine en France",
+    "region": "Île-de-France",
+    "city": "Paris",
+    "website": "",
+    "facebook": "https://www.facebook.com/CentreCultureldUrkaineenFrance/",
+    "telegram": "",
+    "email": "",
+    "address": "22 avenue de Messine, Paris, France",
+    "phone": ""
+  },
+  {
+    "title": "L'association PROMOUKRAÏNA",
+    "region": "Grand-Est",
+    "city": "Strasbourg",
+    "website": "https://promoukraina.fr/",
+    "facebook": "",
+    "telegram": "",
+    "email": "",
+    "address": "",
+    "phone": ""
   }
 ]
